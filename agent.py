@@ -1,4 +1,8 @@
 # agent.py
+
+# AUthor :: sdfsdfsdf
+
+
 import numpy as np
 from math import sqrt
 
